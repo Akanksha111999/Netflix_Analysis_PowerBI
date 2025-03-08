@@ -1,4 +1,4 @@
-# Netflix Data Analysis Using Power BI**
+# Netflix Data Analysis Using Power BI
 
 - Conducted an end-to-end analysis of Netflix data, covering data preparation, ingestion, and dashboard creation.
 - Designed and developed a comprehensive dashboard to visualize key metrics, trends, and insights.
